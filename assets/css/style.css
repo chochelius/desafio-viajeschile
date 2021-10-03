@@ -1,17 +1,21 @@
+/* tipografía */
 .body {
     font-family: 'Roboto', sans-serif;
+}
+
+/* iconos */
+
+.icono {
+    color: white;
+}
+
+/* imagenes */
+.imgtarj {
+    height: 200px;
+    width: 300px;
 }
 
 .imglogo {
     height: 40px;
     width: 40px;
 } 
-
-.icono {
-    color: white;
-}
-
-.imgtarj {
-    height: 200px;
-    width: 300px;
-}
