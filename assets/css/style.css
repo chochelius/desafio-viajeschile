@@ -1,3 +1,17 @@
 .body {
     font-family: 'Roboto', sans-serif;
 }
+
+.imglogo {
+    height: 40px;
+    width: 40px;
+} 
+
+.icono {
+    color: white;
+}
+
+.imgtarj {
+    height: 200px;
+    width: 300px;
+}
